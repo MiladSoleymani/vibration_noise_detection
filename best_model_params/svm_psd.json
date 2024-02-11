@@ -1,0 +1,1 @@
+{"model_name": "svm", "model_params": {"C": 100, "gamma": 0.001, "kernel": "rbf"}}

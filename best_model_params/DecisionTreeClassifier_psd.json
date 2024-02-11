@@ -1,0 +1,1 @@
+{"model_name": "DecisionTreeClassifier", "model_params": {"max_leaf_nodes": 44, "min_samples_split": 2}}
