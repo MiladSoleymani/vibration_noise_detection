@@ -1,6 +1,6 @@
 # vibration_noise_detection
 
-This repository contains the implementation of a structure for detecting differences between two images or videos (detecting damages on car bodies before and after rent)
+The objective of this project is to differentiate between healthy and unhealthy compressors by analyzing data collected from two accelerometer sensors installed on them.
 
 ## Data overview
 
