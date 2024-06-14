@@ -2,6 +2,20 @@
 
 The objective of this project is to differentiate between healthy and unhealthy compressors by analyzing data collected from two accelerometer sensors installed on them.
 
+## Repository Structure
+
+- **best_model_params/**: Best parameters for models.
+- **cli/**: Command-line interface scripts.
+- **data/**: Dataset files.
+- **jupyter/**: Jupyter notebooks for analysis.
+- **models/**: Model definitions and training scripts.
+- **utils/**: Utility functions.
+
+## How to Use
+
+1. **Install dependencies**: `pip install -r requirements.txt`
+3. **Train models**: Use Jupyter notebooks or CLI tools in `cli` directories.
+
 ## Data overview
 
 * There are twelve engines in the data set, six of which have the NG label and the other six have the OK label.
